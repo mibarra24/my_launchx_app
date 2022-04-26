@@ -4,8 +4,8 @@
   "description": "Este es el primer ejercicio de la semana 3 de la mision backend de Launch X",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./node_modules/.bin/jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
