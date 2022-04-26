@@ -4,4 +4,4 @@ class MissionCommander {
     }
 }
 
-module.exports = MissionCommander
+module.exports = MissionCommander // Exportar un modulo
